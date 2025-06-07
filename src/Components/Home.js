@@ -32,7 +32,7 @@ const Home = () => {
             I love transforming ideas into impactful web applications that solve real problems and add value.
             I'm passionate about writing clean, scalable code and constantly pushing myself to improve as a developer.
 
-            I'm fluent in <b>Python</b>, with solid experience in <b>Django</b>, <b>Django REST Framework</b>.
+            I'm fluent in <b>Python</b>, with solid Experience in <b>Django</b>, <b>Django REST Framework</b>.
             I've also worked on projects involving <b>Flask</b>, <b>MySQL</b>, <b>SQLite</b>, and <b>Bootstrap</b>, and recently started exploring <b>React</b> for front-end development.
             <br /><br />
             I'm currently enhancing my skills in <b>Data Structures & Algorithms</b>, and plan to dive deeper into <b>Python</b>, <b>FastAPI</b>, and modern frontend tools soon.
